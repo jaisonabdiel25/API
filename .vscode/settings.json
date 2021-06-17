@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/935b637d-a965-49cc-9126-60cfb9bcd975/resourceGroups/APIservicesJP/providers/Microsoft.Web/sites/JaisonPalacio-apiWeb",
+    "appService.deploySubpath": "."
+}
